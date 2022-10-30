@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: "1. Aladin létal na čarovním drakovi.",
+        question: "1. Aladin létal na čarovném drakovi.",
         a: "pravda",
         b: "lež",
         
